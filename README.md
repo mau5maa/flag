@@ -1,5 +1,6 @@
 reTEK 2
 
+<<<<<<< HEAD
 dodododo
 
 DAE KulchaWarriors?!
@@ -72,3 +73,8 @@ jeopardy
        >------\     \  <   
       <_________________>
 ```
+=======
+Push to this for flag.
+
+dodododo
+>>>>>>> b2b0eda135bd5fbf4eed8e9c2b092a4de1f6366b
